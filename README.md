@@ -231,10 +231,6 @@ RAZORPAY_KEY_SECRET=AIoLlPM16deAo6BzC7bMLtkZ
 - Use Gunicorn + Nginx
 - Deploy to: Railway, Render, AWS, etc.
 
-## License
+developed by Hariharasudhan 
 
-MIT
 
----
-
-Made with 🍵 and ❤️
